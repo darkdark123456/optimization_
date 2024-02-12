@@ -1,0 +1,15 @@
+﻿  uic AlgorithmDialog.ui
+  uic OptimizationAlgorithm.ui
+  rcc OptimizationAlgorithm.qrc
+  rcc Resource.qrc
+  moc OptimizationAlgorithm.h
+  moc AlgorithmDialog.h
+   RCC: Warning: No resources in 'C:\Users\Administrator\source\repos\OptimizationAlgorithm\OptimizationAlgorithm\OptimizationAlgorithm.qrc'.
+  AlgorithmDialog.cpp
+  OptimizationAlgorithm.cpp
+  main.cpp
+  qrc_OptimizationAlgorithm.cpp
+  qrc_Resource.cpp
+  moc_OptimizationAlgorithm.cpp
+  moc_AlgorithmDialog.cpp
+  OptimizationAlgorithm.vcxproj -> C:\Users\Administrator\source\repos\OptimizationAlgorithm\x64\Debug\OptimizationAlgorithm.exe
